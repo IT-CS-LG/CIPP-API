@@ -27,4 +27,4 @@ jobs:
           app-name: 'cippyecgb'
           slot-name: 'Production'
           package: ${{ env.AZURE_FUNCTIONAPP_PACKAGE_PATH }}
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5ACD0C77C4D241F79A4EEC54B6092344 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_598DC449568F4C29B46045ED796A8674 }}
